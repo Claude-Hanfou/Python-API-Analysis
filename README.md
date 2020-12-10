@@ -40,7 +40,7 @@ Southern Northern Hemisphere - Max Temp vs. Latitude Linear Regression
 ## Part 2- VacationPy
 This Jupyter notebook will work with weather data to plan future vacations. We will use jupyter-gmaps and the Google Places API to find cities from the WeatherPy notebook results that have the ideal weather for a vacation spot. Then we will plot out markers on a map of the world and find a hotel we can stay at in those cities.
 
-Create a heat map that displays the humidity for every city from the part I of the homework.
+A heat map that displays the humidity for every city from the WeatherPy
 
 ![alt text](https://github.com/Claude-Hanfou/Python-API-Analysis/blob/main/Images/heat_map.png "Heat Map")
 
