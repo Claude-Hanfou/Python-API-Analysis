@@ -29,7 +29,7 @@ Latitude vs. Temperature Plot
 ![alt text](https://github.com/Claude-Hanfou/Python-API-Analysis/blob/main/output_data/figure_4.png "plot")
 
 ###### Northern and Southern Hemisphere
-The data was later separated into Northern and Southern hemisphere to observe any correlation
+The data was later separated into Northern and Southern hemisphere using the latitudes to observe any correlation that might exist between the data. Linear regression model was used to archieve the calculations and create the different plots.
 
 Northern Hemisphere - Max Temp vs. Latitude Linear Regression
 ![alt text](https://github.com/Claude-Hanfou/Python-API-Analysis/blob/main/output_data/figure_5.png "plot")
