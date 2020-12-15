@@ -14,7 +14,7 @@ This is a detailes annalysis of the weather 500 random cities based on latitude 
 
 ##### Objective
 
-Different scatter plots to observe the relation between Latituble and different variables
+Different scatter plots to observe the relation between Latitude and different variables
 
 Latitude vs. Temperature Plot
 ![alt text](https://github.com/Claude-Hanfou/Python-API-Analysis/blob/main/output_data/figure_1.png "plot")
